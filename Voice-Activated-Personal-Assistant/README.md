@@ -175,7 +175,7 @@ python main.py
 
 B.Tech Computer Science & Engineering
 
-Python Development Internship Project
+Python Developer
 
 ---
 ⭐ If you found this project helpful, don't forget to give it a star!
