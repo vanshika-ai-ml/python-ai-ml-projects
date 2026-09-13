@@ -113,4 +113,4 @@ Polarity: 1.0
 
 **Vanshika**
 
-Built as part of my Python Development Internship to learn Flask, TextBlob, and web application development.
+Built to explore Flask, TextBlob, and web application development through practical projects.
