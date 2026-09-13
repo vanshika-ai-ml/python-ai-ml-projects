@@ -134,4 +134,4 @@ Artificial Intelligence (AI) is the simulation of human intelligence by machines
 
 **Vanshika**
 
-Developed as part of my **QSkill Python Development Internship** to explore Generative AI, Flask web development, and Google Gemini API integration.
+Developed to explore Generative AI, Flask web development, and Google Gemini API integration through practical projects.
