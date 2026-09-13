@@ -1,6 +1,6 @@
-# 🚀 QSkill Python Internship Projects
+# 🚀 Python and AI-ML Projects
 
-This repository showcases my Python projects developed during the QSkill Python Development Internship. These projects demonstrate practical skills in Python programming, Flask, Machine Learning, Natural Language Processing (NLP), Data Analysis, Automation, and Generative AI.
+This repository showcases a collection of projects developed using Python, Machine Learning, Data Analysis, NLP, Flask, Generative AI and Automation. These projects demonstrate practical implementation of programming concepts and AI/ML Techniques.
 
 ---
 
